@@ -140,14 +140,16 @@ print(f'Prediction: {prediction}')
 
 
 ### OUTPUT
-<img width="1000" height="222" alt="image" src="https://github.com/user-attachments/assets/607197ca-d0cb-4d04-8c87-b725ce93f454" />
+<img width="440" height="241" alt="image" src="https://github.com/user-attachments/assets/71b20152-a393-4c64-bdba-210499f216e4" />
+
 
 ### Training Loss Vs Iteration Plot
 <img width="571" height="455" alt="image" src="https://github.com/user-attachments/assets/6f172f01-21c1-460e-ad91-b419796900e4" />
 
 
 ### New Sample Data Prediction
-<img width="1333" height="38" alt="image" src="https://github.com/user-attachments/assets/b8fc9fac-4b0a-4acb-aeb7-63039e9fbec6" />
+<img width="297" height="41" alt="image" src="https://github.com/user-attachments/assets/83e6694d-d56a-4420-a1d7-7678bd9c73ed" />
+
 
 
 ## RESULT
