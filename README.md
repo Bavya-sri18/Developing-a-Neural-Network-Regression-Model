@@ -3,8 +3,13 @@
 ## AIM
 To develop a neural network regression model for the given dataset.
 
-## THEORY
-Explain the problem statement
+A neural network regression model is used to predict continuous numerical values based on input data. Unlike classification problems (which predict categories), regression focuses on predicting values such as price, sales, temperature, or demand.
+
+### Problem Statement
+
+In this problem, the goal is to build a model that can learn patterns from a given dataset and predict a continuous output value. The dataset contains input features (independent variables) and corresponding target values (dependent variable).
+
+The neural network learns the relationship between inputs and outputs during training. Once trained, it can predict values for new, unseen data.
 
 ## Neural Network Model
 <img width="743" height="623" alt="image" src="https://github.com/user-attachments/assets/c91c53e2-abfc-4adf-a2b0-072e26f9ecaa" />
