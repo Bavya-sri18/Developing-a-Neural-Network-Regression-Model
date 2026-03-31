@@ -5,13 +5,13 @@ To develop a neural network regression model for the given dataset.
 
 A neural network regression model is used to predict continuous numerical values based on input data. Unlike classification problems (which predict categories), regression focuses on predicting values such as price, sales, temperature, or demand.
 
-### Problem Statemen
+### PROBLEM STATEMENT
 
 In this problem, the goal is to build a model that can learn patterns from a given dataset and predict a continuous output value. The dataset contains input features (independent variables) and corresponding target values (dependent variable).
 
 The neural network learns the relationship between inputs and outputs during training. Once trained, it can predict values for new, unseen data.
 
-## THEORY
+### THEORY
 
 Developing a Neural Network Regression Model involves designing a model to predict continuous numerical values from input data. A typical regression neural network consists of an input layer, one or more hidden layers with activation functions (like ReLU), and an output layer with a linear activation function. The model is trained using a loss function such as Mean Squared Error (MSE) to minimize the difference between predicted and actual values. During training, optimization algorithms like gradient descent adjust the weights through backpropagation. This approach is widely used in applications like price prediction, demand forecasting, and trend analysis.
 
